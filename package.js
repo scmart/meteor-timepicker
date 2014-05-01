@@ -4,6 +4,6 @@ Package.describe({
 
 Package.on_use(function(api, where) {
 	api.add_files(['jquery.timepicker.js', 
-				   'jquery.timepicker.js'
+				   'jquery.timepicker.css'
 				  ], 'client');
 });
