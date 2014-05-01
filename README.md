@@ -5,4 +5,4 @@ jquery timepicker for meteor
 
 to install 
 
-mrt add meteor-timepicker
+mrt add jquery-timepicker
